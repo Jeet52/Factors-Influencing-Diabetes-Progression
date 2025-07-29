@@ -46,15 +46,15 @@ The project follows a robust statistical methodology:
 
 ## Key Findings
 
-* Initial analysis revealed high variance in S1 (Serum Total Cholesterol Level) and S2 (Low-Density Lipoproteins), suggesting their potential influence on the target variable. [cite_start]The target variable itself showed the highest variance, indicating multiple influential factors[cite: 25, 27].
-* [cite_start]The preliminary hypothesis tests confirmed that the conditions for multiple linear regression (Linearity, Independence, Normality, and Equal Variance) were met for the initial model[cite: 45, 49, 59, 69].
-* Multicollinearity was identified with high VIF values for S1, S2, S3, and S5. [cite_start]S1 was removed due to its high correlation with S2 (r = 0.897) to ensure independence[cite: 80, 81, 82, 83].
-* [cite_start]The initial ANOVA analysis indicated that Age, BMI, BP, S3, and S5 statistically contribute to the variance of the diabetes progression indicator[cite: 91, 92, 93].
-* [cite_start]Through backward elimination, the final model retained **BMI, BP, S2, S3, and S5** as statistically significant predictors of diabetes progression[cite: 117].
-* [cite_start]The final model continues to satisfy the L.I.N.E. conditions[cite: 127, 130, 132, 135].
-* [cite_start]An ANOVA comparison between the original and final models showed no significant difference ($p=0.848$), confirming that removing Age, S4, and S6 did not reduce the model's explanatory power[cite: 137, 138].
-* [cite_start]The final model has a **Multiple R-squared of approximately 0.4964**, indicating that **49.64% of the variation in diabetes progression can be explained by BMI, BP, S2, S3, and S5**[cite: 141].
-* [cite_start]The high F-statistic (85.94) and very low p-value ($< 2.2e-16$) for the final model indicate that the model as a whole is statistically significant[cite: 142].
+* Initial analysis revealed high variance in S1 (Serum Total Cholesterol Level) and S2 (Low-Density Lipoproteins), suggesting their potential influence on the target variable. The target variable itself showed the highest variance, indicating multiple influential factors.
+* The preliminary hypothesis tests confirmed that the conditions for multiple linear regression (Linearity, Independence, Normality, and Equal Variance) were met for the initial model.
+* Multicollinearity was identified with high VIF values for S1, S2, S3, and S5. S1 was removed due to its high correlation with S2 (r = 0.897) to ensure independence.
+* The initial ANOVA analysis indicated that Age, BMI, BP, S3, and S5 statistically contribute to the variance of the diabetes progression indicator.
+* Through backward elimination, the final model retained **BMI, BP, S2, S3, and S5** as statistically significant predictors of diabetes progression.
+* The final model continues to satisfy the L.I.N.E. conditions.
+* An ANOVA comparison between the original and final models showed no significant difference ($p=0.848$), confirming that removing Age, S4, and S6 did not reduce the model's explanatory power.
+* The final model has a **Multiple R-squared of approximately 0.4964**, indicating that **49.64% of the variation in diabetes progression can be explained by BMI, BP, S2, S3, and S5**.
+* The high F-statistic (85.94) and very low p-value ($< 2.2e-16$) for the final model indicate that the model as a whole is statistically significant.
 
 ## Files in this Repository
 
