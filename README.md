@@ -59,8 +59,8 @@ The project follows a robust statistical methodology:
 ## Files in this Repository
 
 * `Diabetes Project.pdf`: The complete project report detailing the methodology, analysis, results, and conclusions.
-* `diabetes_analysis.R`: (Recommend adding this if you used R) The R script containing all the code used for data loading, descriptive statistics, regression analysis, assumption checks, variable selection, and visualization.
-* `data/diabetes.csv`: (Recommend adding this if you can share the data) The dataset used for this analysis.
+* `diabetes_analysis.R`: The R script containing all the code used for data loading, descriptive statistics, regression analysis, assumption checks, variable selection, and visualization.
+* `data/diabetes.csv`:  The dataset used for this analysis.
 
 ## Tools and Technologies
 
