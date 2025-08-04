@@ -84,5 +84,4 @@ The project follows a robust statistical methodology:
 ## Contact
 
 Jeet Patel
-[Your LinkedIn Profile URL (Optional)]
-[Your Portfolio Website URL (Optional)]
+https://www.linkedin.com/in/jeetpatel52/
